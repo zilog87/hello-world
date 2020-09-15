@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-my name is eli sartika
+my name is eli sartikaa
